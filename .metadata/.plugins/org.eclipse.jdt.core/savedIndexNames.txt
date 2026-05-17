@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/blueonion/Documents/Java-Web/workspace/.metadata/.plugins/org.eclipse.jdt.core
-3045360632.index
-3962809438.index
-1865797976.index
